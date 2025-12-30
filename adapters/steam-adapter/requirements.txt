@@ -1,0 +1,4 @@
+confluent-kafka==2.4.0
+requests==2.32.4
+ujson==5.10.0
+requests

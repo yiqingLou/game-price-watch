@@ -1,0 +1,11 @@
+{
+  "game_id": "string",
+  "title": "string",
+  "platform": "STEAM|PS|XBOX|SWITCH",
+  "region": "US|EU|JP|CN",
+  "currency": "USD|EUR|JPY|CNY",
+  "price": 0.0,
+  "original_price": 0.0,
+  "discount_pct": 0.0,
+  "ts_event": 0
+}

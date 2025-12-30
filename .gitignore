@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data (do not commit real data)
+data/
+*.jsonl
+
+# OS
+.DS_Store
